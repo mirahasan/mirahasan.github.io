@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Mir Hasan"
 title_separator          : "-"
 name                     : &name "Mir Hasan"
-description              : &description "Assistant Professor, Austin Peay State University"
+description              : &description "Assistant Professor<br>Austin Peay State University"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/mirahasan"
+  github           : "https://www.github.com/mirahasan"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/mirahasan/"
+  linkedin         : "mirahasan"
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
