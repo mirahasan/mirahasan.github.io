@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Mir Hasan"
 title_separator          : "-"
 name                     : &name "Mir Hasan"
-description              : &description "Assistant Professor <br> Austin Peay State University"
+description              : &description "Assistant Professor<br>Austin Peay State University"
 url                      : https://mirahasan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/mirahasan/mirahasan.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Mir Hasan"
   avatar           : "11569709.jpeg"
-  bio              : "Assistant Professor, <br>Austin Peay State University"
-  location         : "Clarksville, United States"
+  bio              : "Assistant Professor<br>Austin Peay State University"
+  location         : "Clarksville, TN, United States"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=eUHRutAAAAAJ&hl=en"
@@ -103,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "mirahasan"
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0001-6750-4965"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
