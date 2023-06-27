@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome!"
+title: "About"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -15,7 +15,7 @@ My research interests encompass the areas of information retrieval, search engin
 
 ### News and Announcements
 
-#### 2023
+#### 2022
   * List item one    
   * List item two
   * List item three
