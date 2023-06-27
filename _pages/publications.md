@@ -26,6 +26,6 @@ author_profile: true
     * [3] L. Ponzanelli, G. Bavota, A. Mocci, M. Di Penta, R. Oliveto, M. Hasan, B. Russo, S. Haiduc, and M. Lanza, “Too Long; Didn’t Watch! Extracting Relevant Fragments from Software Development Video Tutorials, Technical Research Track,” in Proceedings of the 38th ACM/IEEE International Conference on Software Engineering (ICSE’16), Austin, TX, USA, 2016, pp. 261-272.
     * [2] S. Imminni, M. Hasan, M. Duckett, P. Sachdeva, S. Karmakar, P. Kumar, and S. Haiduc, “SPYSE: a Semantic Search Engine for Python Packages and Modules,” in Proceedings of the 38th ACM/IEEE International Conference on Software Engineering (ICSE’16), Austin, TX, USA, 2016, pp. 625-628.
   * 2010
-    * M. Hasan, and A. Chowdhury, “Human disease diagnosis using a fuzzy expert system,” Journal of Computing, vol. 2, iss. 6, 2010, pp. 66-70.
+    * [1] M. Hasan, and A. Chowdhury, “Human disease diagnosis using a fuzzy expert system,” Journal of Computing, vol. 2, iss. 6, 2010, pp. 66-70.
 
     
