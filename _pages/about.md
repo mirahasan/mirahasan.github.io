@@ -14,7 +14,8 @@ My research interests encompass the areas of information retrieval, search engin
 ### News
 
   * 2023 
-      * April 20-21: Attended the 2023 ABET Symposium
-      * List item two
-  * List item tw
+      * April 20-21, 2023: Attended the 2023 ABET Symposium.
+      * April 19, 2023: Attended the ABET Self Study Development Workshop.  
+      * March 15-18, 2023: Attended ACM SIGCSE 2023, and presented our work titled "Teaching Database Security in an Undergraduate Database Administration Course Serving Computer Science, Information Technology and Cybersecurity Students".
+  * 2022
     
