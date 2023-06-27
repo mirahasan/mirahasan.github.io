@@ -13,13 +13,8 @@ My research interests encompass the areas of information retrieval, search engin
 
 
 
-### News and Announcements
+#### News and Announcements
 
-#### 2022
-  * List item one    
-  * List item two
-  * List item three
-  * List item four
 #### 2022
   * List item one    
   * List item two
