@@ -5,12 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+  You can also find my articles on <u><a href="https://scholar.google.com/citations?user=eUHRutAAAAAJ&hl=en">my Google Scholar profile</a>.</u>
 
 
 
   * 2023 
-      * [11] (Accepted)] B. Bruster, J. Elarde, and M. Hasan, “The CTEEAM Process in Practice: An Evaluation of Its Role in Digital Forensics Education", Journal of Computing Sciences in Colleges. (To be published.)
+      * [11] (Accepted) B. Bruster, J. Elarde, and M. Hasan, “The CTEEAM Process in Practice: An Evaluation of Its Role in Digital Forensics Education", Journal of Computing Sciences in Colleges. (To be published.)
       * [10] M. Hasan, J. Elarde, and B. Bruster, “Teaching Database Security in an Undergraduate Database Administration Course Serving Computer Science, Information Technology and Cybersecurity Students”, in Proceedings of the 54th ACM Technical Symposium on Computer Science Education (ACM SIGCSE 2023), Toronto, ON, Canada, V. 2, pp. 1406. https://doi.org/10.1145/3545947.3576350.
   * 2022
     * [9] E. Hossain, M. R. Karim, M. Hasan, S. A. Zaoad, T. Tanjim and M. M. Khan, "SPaFE: A Crowdsourcing and Multimodal Recommender System to Ensure Travel Safety in a City," in IEEE Access, vol. 10, pp. 71221-71232, 2022, doi: 10.1109/ACCESS.2022.3187964.
