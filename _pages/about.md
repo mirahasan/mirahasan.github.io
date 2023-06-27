@@ -13,8 +13,8 @@ My research interests encompass the areas of information retrieval, search engin
 
 ### News
 
-  * List item one 
-      * List item one 
+  * 2023 
+      * April 20-21: Attended the 2023 ABET Symposium
       * List item two
-  * List item two
+  * List item tw
     
