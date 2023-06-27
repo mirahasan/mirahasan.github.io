@@ -14,7 +14,7 @@ author_profile: true
       * [10] M. Hasan, J. Elarde, and B. Bruster, “Teaching Database Security in an Undergraduate Database Administration Course Serving Computer Science, Information Technology and Cybersecurity Students”, in Proceedings of the 54th ACM Technical Symposium on Computer Science Education (ACM SIGCSE 2023), Toronto, ON, Canada, V. 2, pp. 1406. https://doi.org/10.1145/3545947.3576350.
   * 2022
     *[9] E. Hossain, M. R. Karim, M. Hasan, S. A. Zaoad, T. Tanjim and M. M. Khan, "SPaFE: A Crowdsourcing and Multimodal Recommender System to Ensure Travel Safety in a City," in IEEE Access, vol. 10, pp. 71221-71232, 2022, doi: 10.1109/ACCESS.2022.3187964.
-  *2021
+  * 2021
     * [8] S. A. Zaoad, T. Tanjim, M. Hasan, M. Mamun-Or-Rashid, I. A. Almansour and M. M. Khan, "Accelerating Message Passing Operation of GDL-Based Constraint Optimization Algorithms Using Multiprocessing," 2021 IEEE Intl Conf on Parallel \& Distributed Processing with Applications, Big Data \& Cloud Computing, Sustainable Computing \& Communications, Social Computing \& Networking (ISPA/BDCloud/SocialCom/SustainCom), 2021, pp. 706-714, doi: 10.1109/ISPA-BDCloud-SocialCom-SustainCom52081.2021.00102.
   * 2019
     * [7] W. Tanner, E. Akbas, and M. Hasan, “Paper Recommendation Based on Citation Relation,” in Proceedings of the 2019 IEEE International Conference on Big Data (IEEE BigData 2019), Los Angeles, CA, USA, 2019, pp. 3053-3059.
