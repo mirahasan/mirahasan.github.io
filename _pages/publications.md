@@ -9,7 +9,7 @@ author_profile: true
 
 
 
-  * 2023 
+  * <b>2023</b> 
       * [11] (Accepted) B. Bruster, J. Elarde, and M. Hasan, “The CTEEAM Process in Practice: An Evaluation of Its Role in Digital Forensics Education", Journal of Computing Sciences in Colleges. (To be published.)
       * <b style='color:red;'>[10]</b> M. Hasan, J. Elarde, and B. Bruster, “<a href="https://dl.acm.org/doi/abs/10.1145/3545947.3576350">Teaching Database Security in an Undergraduate Database Administration Course Serving Computer Science, Information Technology and Cybersecurity Students</a>”, in Proceedings of the 54th ACM Technical Symposium on Computer Science Education (ACM SIGCSE 2023), Toronto, ON, Canada, V. 2, pp. 1406. https://doi.org/10.1145/3545947.3576350.
   * 2022
