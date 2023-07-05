@@ -7,9 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a tenure-track Assistant Professor in the Department of Computer Science and Information Technology (CSIT) at Austin Peay State University. I am passionate about teaching, and love teaching courses in programming, databases, web and mobile application development, software engineering, and  cybersecurity.
+I am a tenure-track Assistant Professor in the <a href="https://www.apsu.edu/csci/">Department of Computer Science and Information Technology (CSIT)</a> at <a href="https://www.apsu.edu/index.php">Austin Peay State University</a>. 
 
-My research interests encompass the areas of information retrieval, search engines and recommender systems, software engineering, cybersecurity and computer science education. My work resulted in publications in top venues, such as the ACM Special Interest Group on Computer Science Education (SIGCSE), IEEE International Conference on Big Data (Big Data), Hawaii International Conference on System (HICSS), ACM/SIGIR International Conference on Research & Development in Information Retrieval (SIGIR), IEEE Access, and IEEE/ACM International Conference on Software Engineering (ICSE). 
+I am passionate about teaching, and love teaching courses in programming, databases, software engineering, web and mobile application development, and  cybersecurity.
+
+My research interests encompass the areas of information retrieval, search engines and recommender systems, software engineering, cybersecurity, and computer science education. My work resulted in publications in top venues, such as the ACM Special Interest Group on Computer Science Education (SIGCSE), IEEE International Conference on Big Data (Big Data), Hawaii International Conference on System (HICSS), ACM/SIGIR International Conference on Research & Development in Information Retrieval (SIGIR), IEEE Access, and IEEE/ACM International Conference on Software Engineering (ICSE). 
 
 ### News
 
