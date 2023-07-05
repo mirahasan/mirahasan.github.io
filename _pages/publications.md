@@ -11,7 +11,7 @@ author_profile: true
 
   * 2023 
       * [11] (Accepted) B. Bruster, J. Elarde, and M. Hasan, “The CTEEAM Process in Practice: An Evaluation of Its Role in Digital Forensics Education", Journal of Computing Sciences in Colleges. (To be published.)
-      * \textcolor{red}{\textbf{[10]}} M. Hasan, J. Elarde, and B. Bruster, “<a href="https://dl.acm.org/doi/abs/10.1145/3545947.3576350">Teaching Database Security in an Undergraduate Database Administration Course Serving Computer Science, Information Technology and Cybersecurity Students</a>”, in Proceedings of the 54th ACM Technical Symposium on Computer Science Education (ACM SIGCSE 2023), Toronto, ON, Canada, V. 2, pp. 1406. https://doi.org/10.1145/3545947.3576350.
+      * <strong coler:red>[10]</strong> M. Hasan, J. Elarde, and B. Bruster, “<a href="https://dl.acm.org/doi/abs/10.1145/3545947.3576350">Teaching Database Security in an Undergraduate Database Administration Course Serving Computer Science, Information Technology and Cybersecurity Students</a>”, in Proceedings of the 54th ACM Technical Symposium on Computer Science Education (ACM SIGCSE 2023), Toronto, ON, Canada, V. 2, pp. 1406. https://doi.org/10.1145/3545947.3576350.
   * 2022
     * [9] E. Hossain, M. R. Karim, M. Hasan, S. A. Zaoad, T. Tanjim and M. M. Khan, "SPaFE: A Crowdsourcing and Multimodal Recommender System to Ensure Travel Safety in a City," in IEEE Access, vol. 10, pp. 71221-71232, 2022, doi: 10.1109/ACCESS.2022.3187964.
   * 2021
