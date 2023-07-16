@@ -7,7 +7,13 @@ author_profile: true
 
   You can also find my articles on my <a style="text-decoration:none" href="https://scholar.google.com/citations?user=eUHRutAAAAAJ&hl=en">Google Scholar profile</a>.
 
-
+###2023
+<ol reversed>
+  <li><a style="text-decoration:none" href="https://dl.acm.org/doi/abs/10.1145/3545947.3576350">Teaching Database Security in an Undergraduate Database Administration Course Serving Computer Science, Information Technology and Cybersecurity Students</a><br> M. Hasan, J. Elarde, and B. Bruster<br>ACM Paper Poster</li>
+  <li>Tea</li>
+###2022
+  <li>Milk</li>
+</ol>
 
   * <b>2023</b> 
       * `[11]` B. Bruster, J. Elarde, and M. Hasan, “The CTEEAM Process in Practice: An Evaluation of Its Role in Digital Forensics Education", Journal of Computing Sciences in Colleges. `Accepted`
