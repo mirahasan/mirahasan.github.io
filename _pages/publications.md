@@ -7,7 +7,7 @@ author_profile: true
 
   You can also find my articles on my <a style="text-decoration:none" href="https://scholar.google.com/citations?user=eUHRutAAAAAJ&hl=en">Google Scholar profile</a>.
 
-*2023
+<b>2023</b>
 <ol start="6" reversed="reversed">
     <li>Put on shoes</li>
     <li><a style="text-decoration:none" href="https://dl.acm.org/doi/abs/10.1145/3545947.3576350">Teaching Database Security in an Undergraduate Database Administration Course Serving Computer Science, Information Technology and Cybersecurity Students</a><br>M. Hasan, J. Elarde, and B. Bruster<br>Proceedings of the 54th ACM Technical Symposium on Computer Science Education (ACM SIGCSE TS), Toronto, ON, Canada, V. 2, pp. 1406. https://doi.org/10.1145/3545947.3576350.<br><a style="text-decoration:none" href="https://www.sigcse.org/events/symposia/index.html">`ACM SIGCSE TS`</a>    <a style="text-decoration:none" href="">`Poster`</a></li>
