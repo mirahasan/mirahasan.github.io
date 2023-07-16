@@ -16,8 +16,8 @@ My research interests encompass the areas of information retrieval, search engin
 ### News
 
   * 2023 
-      * <span style="color: blue">[April 20-21, 2023]</span> Attended the 2023 ABET Symposium in Nashville, TN.
-      * April 19, 2023: Attended the ABET Self Study Development Workshop in Nashville, TN.  
-      * March 15-18, 2023: Attended the 2023 ACM SIGCSE Conference in Toronto, Canada, where I presented our work titled "Teaching Database Security in an Undergraduate Database Administration Course Serving Computer Science, Information Technology and Cybersecurity Students".
+      * `April 20-21, 2023` Attended the 2023 ABET Symposium in Nashville, TN.
+      * `April 19, 2023` Attended the ABET Self Study Development Workshop in Nashville, TN.  
+      * `March 15-18, 2023` Attended and presented our peer-reviewed poster paper at the 2023 ACM SIGCSE TS in Toronto, Canada.
   * 2022
     
