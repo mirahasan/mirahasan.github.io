@@ -4,11 +4,14 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
-Assistant Professor
-Department of Computer Science and Information Technology, Austin Peay State University. (August 2019- Present)
+Austin Peay State University (Fall 2019- Present)
+======
+-as an Instructor taught the following courses-
+  * Github University<br>About My name is (Alexander) Niema Moshiri, and I am an Associate Teaching Professor in the Computer Science & Engineering Department at the University of California, San Diego (UCSD). I work on computational biology, with a research focus o
+  * Duties included: Tagging issues
+  * Supervisor: Professor Git
 
-- As an Instructor: 
-
-CSCI 3000: Data Modeling, Fall 2019 (15 Students)
-CSCI 3200: Prinplces of Information Security (25 Students)
-CSCI 4050: Multimedia Tools and Techniques (10 Students)
+* Fall 2015: Research Assistant
+  * Github University
+  * Duties included: Merging pull requests
+  * Supervisor: Professor Hub
