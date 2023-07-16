@@ -11,7 +11,7 @@ I am a tenure-track Assistant Professor in the <a style="text-decoration:none" h
 
 I am passionate about teaching, and love teaching courses in programming, databases, software engineering, web and mobile application development, and  cybersecurity.
 
-My research interests encompass the areas of information retrieval, search engines and recommender systems, software engineering, cybersecurity, and computer science education. My work resulted in publications in top venues, such as the ACM Special Interest Group on Computer Science Education (SIGCSE), IEEE International Conference on Big Data (Big Data), Hawaii International Conference on System (HICSS), ACM/SIGIR International Conference on Research & Development in Information Retrieval (SIGIR), IEEE Access, and IEEE/ACM International Conference on Software Engineering (ICSE). 
+My research interests encompass the areas of information retrieval, search engines and recommender systems, software engineering, cybersecurity, and computer science education. My work resulted in publications in top venues, such as the ACM Special Interest Group on Computer Science Education ('ACM SIGCSE TS'), IEEE International Conference on Big Data ('IEEE Big Data'), Hawaii International Conference on System ('HICSS'), ACM/SIGIR International Conference on Research & Development in Information Retrieval ('ACM SIGIR'), IEEE Access, and IEEE/ACM International Conference on Software Engineering ('ICSE'). 
 
 ### News
 
