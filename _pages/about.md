@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a tenure-track Assistant Professor in the <a href="https://www.apsu.edu/csci/">Department of Computer Science and Information Technology (CSIT)</a> at <a href="https://www.apsu.edu/index.php">Austin Peay State University</a>. 
+I am a tenure-track Assistant Professor in the <a style="text-decoration:none" href="https://www.apsu.edu/csci/">Department of Computer Science and Information Technology (CSIT)</a> at <a style="text-decoration:none" href="https://www.apsu.edu/index.php">Austin Peay State University (APSU)</a>. 
 
 I am passionate about teaching, and love teaching courses in programming, databases, software engineering, web and mobile application development, and  cybersecurity.
 
