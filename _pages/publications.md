@@ -7,15 +7,15 @@ author_profile: true
 
   You can also find my articles on my <a style="text-decoration:none" href="https://scholar.google.com/citations?user=eUHRutAAAAAJ&hl=en">Google Scholar profile</a>.
 
-*2023
-<ol start="4" reversed="reversed">
+-2023
+<ol start="6" reversed="reversed">
     <li>Put on shoes</li>
     <li>Open door</li>
     <li>Step outside</li>
 </ol>
 
-*2022
-<ol start="1" reversed="reversed">
+###2022
+<ol start="3" reversed="reversed">
     <li>Put on shoes</li>
     <li>Open door</li>
     <li>Step outside</li>
