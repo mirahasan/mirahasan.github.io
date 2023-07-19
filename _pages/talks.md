@@ -4,7 +4,7 @@ title: "Talks and presentations"
 permalink: /talks/
 author_profile: true
 ---
-  * <a style="text-decoration:none" href=""> Teaching Database Security in an Undergraduate Database Administration Course Serving Computer Science, Information Technology and Cybersecurity Students</a>
+ * <a style="text-decoration:none" href=""> Teaching Database Security in an Undergraduate Database Administration Course Serving Computer Science, Information Technology and Cybersecurity Students</a>
    ** Proceedings of the 54th ACM Technical Symposium on Computer Science Education (ACM SIGCSE TS), Toronto, Canada, March 18, 2023.
    ** ACM Mid-Southeast Chapter Fall Conference, Gatlinburg, TN, United States, November 11, 2022.
   * <a style="text-decoration:none" href="" title="Laboratory component of Introduction to Programming I.  Students will use a high-level object-oriented programming language to design, implement, debug, and test interactive software."> CSCI 1011: Introduction to Programming I Lab</a> <br> Fall 2022, Spring 2021, 2022, 2023
